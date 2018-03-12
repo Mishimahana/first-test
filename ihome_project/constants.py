@@ -1,0 +1,8 @@
+#coding=utf-8
+PIC_CODE_EXPIRES_SECONDS = 180 
+SMS_CODE_EXPIRES_SECONDS = 300
+
+
+SESSION_EXPIRES_SECONDS = 86400
+
+QINIU_URL_PREFIX = "http://o91qujnqh.bkt.clouddn.com/"
